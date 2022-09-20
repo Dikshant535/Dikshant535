@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 💬 Ask me about **JavaScript,Java,CSS,HTML,Spring Boat.Hibernate Data Structure & Algorithm**
+- 💬 Ask me about **JavaScript,Java,CSS,HTML,Spring Boot.Hibernate Data Structure & Algorithm**
 
 - 📫 How to reach me **bishtdikshant4@gmail.com**
 

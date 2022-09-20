@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dikshant Singh Bisht</h1>
 <h3 align="center">A passionate Backend Java developer from India</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **JavaScript,Java, Data Structure & Algorithm**
 

@@ -22,3 +22,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dikshant535&show_icons=true&locale=en" alt="dikshant535" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dikshant535&" alt="dikshant535" /></p>
+
+<br/>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dikshant535&&theme=tokyonight" alt="dikshant535" /></p>
+
+
+
+<a href="https://github.com/Dikshant535/github-readme-activity-graph"><img alt="Dikshant535's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Dikshant535&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+

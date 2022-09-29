@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dikshant Singh Bisht</h1>
 <h3 align="center">A passionate Backend Java developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dikshant535&label=Profile%20views&color=0e75b6&style=flat" alt="Dikshant535" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dikshant535" alt="Dikshant535" /></a> </p>
+
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **Java,MySQL,Spring Boot,Hibernate,JavaScript,HTML,CSS,Data Structure & Algorithm**
